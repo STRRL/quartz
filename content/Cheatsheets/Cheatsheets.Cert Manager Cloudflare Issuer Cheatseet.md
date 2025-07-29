@@ -1,7 +1,7 @@
 ---
 id: ut6lrsu8aweilymywr2tyzc
 title: Cert Manager Cloudflare Issuer Cheatseet
-desc: ''
+desc: ""
 updated: 1659258139772
 created: 1659257667200
 ---

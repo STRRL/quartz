@@ -1,7 +1,7 @@
 ---
 id: gp9yqmdynp6zaqriztatn5i
 title: KubeCon EU 2023
-desc: ''
+desc: ""
 updated: 1686537261878
 created: 1686537213967
 ---

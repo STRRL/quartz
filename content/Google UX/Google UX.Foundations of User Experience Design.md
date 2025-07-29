@@ -1,7 +1,7 @@
 ---
 id: 18998taq8yc2enpz8wt8vhc
 title: Foundations of User Experience Design
-desc: ''
+desc: ""
 updated: 1663763469670
 created: 1663038626228
 nav_order: 2

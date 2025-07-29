@@ -7,17 +7,17 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.Comments({
-      provider: 'giscus',
+      provider: "giscus",
       options: {
         // from data-repo
-        repo: 'STRRL/quartz',
+        repo: "STRRL/quartz",
         // from data-repo-id
-        repoId: 'R_kgDONl8eCQ',
+        repoId: "R_kgDONl8eCQ",
         // from data-category
-        category: 'General',
+        category: "General",
         // from data-category-id
-        categoryId: 'DIC_kwDONl8eCc4ClucV',
-      }
+        categoryId: "DIC_kwDONl8eCc4ClucV",
+      },
     }),
   ],
   footer: Component.Footer({

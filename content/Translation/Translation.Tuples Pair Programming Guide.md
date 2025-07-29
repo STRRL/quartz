@@ -1,7 +1,7 @@
 ---
 id: mhlryhjqufn4pz1su00o1nc
 title: Tuple's Pair Programming Guide
-desc: ''
+desc: ""
 updated: 1663148448273
 created: 1663147698274
 ---

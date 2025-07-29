@@ -1,7 +1,7 @@
 ---
 id: 9ckdcksek805nbi5whgnmbe
 title: Daily Review
-desc: ''
+desc: ""
 updated: 1659513260274
 created: 1659510882161
 ---

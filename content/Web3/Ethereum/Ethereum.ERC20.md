@@ -1,7 +1,7 @@
 ---
 id: q1y7wa01neow17n9dnr1qb4
 title: ERC20
-desc: ''
+desc: ""
 updated: 1669183345602
 created: 1669182413235
 ---

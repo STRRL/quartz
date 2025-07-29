@@ -1,7 +1,7 @@
 ---
 id: hb2pb9ytvsobvzrhckkfqof
 title: Kubernetes Bootstrap Cheatsheets
-desc: ''
+desc: ""
 updated: 1660137242326
 created: 1658669241678
 ---

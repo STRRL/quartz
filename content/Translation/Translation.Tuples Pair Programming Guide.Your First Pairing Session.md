@@ -1,7 +1,7 @@
 ---
 id: cpg49p74makfv775mww1t7d
-title: 你的第一次结对 / Your First Pairing Session 
-desc: ''
+title: 你的第一次结对 / Your First Pairing Session
+desc: ""
 updated: 1663664920959
 created: 1663148124113
 nav_order: 2
@@ -10,7 +10,6 @@ nav_order: 2
 原文链接: <https://tuple.app/pair-programming-guide/the-case-for-pair-programming>
 
 ---
-
 
 首先: 放松. 你能行.
 

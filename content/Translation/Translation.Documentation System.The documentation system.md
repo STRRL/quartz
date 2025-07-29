@@ -1,7 +1,7 @@
 ---
 id: vivthodp9f5lzmz6wjw7dh3
 title: The documentation system
-desc: ''
+desc: ""
 updated: 1665126617527
 created: 1663665241569
 nav_order: 1
@@ -13,7 +13,7 @@ nav_order: 1
 
 要写出好的软件文档, 我们需要先明白一个不太为人熟知的关键: 文档不是**一样**东西，而是**四样**.
 
-它们分别是: *教程(Tutorial)*, *怎么做指南(How-to guides)*, *技术参考(Technical reference)*, 和*解释(Explanation)*. 它们分别有各自不同的功能和目的, 也需要四种不同的方法来创建它们. 了解这一点将会有助于改进大多数的文档写作过程 -- 而且通常效果很好.
+它们分别是: _教程(Tutorial)_, _怎么做指南(How-to guides)_, _技术参考(Technical reference)_, 和*解释(Explanation)*. 它们分别有各自不同的功能和目的, 也需要四种不同的方法来创建它们. 了解这一点将会有助于改进大多数的文档写作过程 -- 而且通常效果很好.
 
 ## 关于这个系统
 

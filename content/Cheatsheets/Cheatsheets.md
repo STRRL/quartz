@@ -1,7 +1,7 @@
 ---
 id: wtwd4dvy2cmsqc9uj3u1w90
 title: Cheatsheets
-desc: ''
+desc: ""
 updated: 1679125696322
 created: 1658669182703
 ---

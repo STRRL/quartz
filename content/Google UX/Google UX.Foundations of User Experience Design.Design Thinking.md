@@ -1,7 +1,7 @@
 ---
 id: ap4s1ac21f9q1wratizcwdd
 title: Design Thinking
-desc: ''
+desc: ""
 updated: 1663762916027
 created: 1663762662693
 nav_order: 6

@@ -1,7 +1,7 @@
 ---
 id: gbyvc9xdid3zp6ktymkjmlg
 title: Fix Open-in-Slack on KDE
-desc: ''
+desc: ""
 updated: 1689210617651
 created: 1689210162660
 ---

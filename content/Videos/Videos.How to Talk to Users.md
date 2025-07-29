@@ -1,7 +1,7 @@
 ---
 id: he704ghf824b98bdu5zjjvj
 title: How to Talk to Users
-desc: ''
+desc: ""
 updated: 1659536858849
 created: 1659531902318
 ---
@@ -27,7 +27,7 @@ There are only 2 things you must do:
 - Talk specifics, not hypotheticals.
 - Listen, don't talk.
 
-Ref: book *The Mom Test*
+Ref: book _The Mom Test_
 
 ---
 

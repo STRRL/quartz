@@ -1,7 +1,7 @@
 ---
 id: tceg8d5l7jt1c2kr6psxc9o
 title: Semantic HTML cheat sheet
-desc: ''
+desc: ""
 updated: 1692621019640
 created: 1692620396172
 ---

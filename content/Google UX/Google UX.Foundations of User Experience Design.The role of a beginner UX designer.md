@@ -1,7 +1,7 @@
 ---
 id: r4d648sez52yhmkzkwd20c1
 title: The role of a beginner UX designer
-desc: ''
+desc: ""
 updated: 1663661165129
 created: 1663657848944
 nav_order: 3

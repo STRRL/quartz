@@ -1,7 +1,7 @@
 ---
 id: wul0bj0xt6ag83dlnrnbung
 title: Setup Fail2ban
-desc: ''
+desc: ""
 updated: 1690036009215
 created: 1690035913605
 ---

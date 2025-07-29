@@ -1,7 +1,7 @@
 ---
 id: 34ba6u2s30sp4rmwx2w4psi
 title: Perspective
-desc: ''
+desc: ""
 updated: 1670672304948
 created: 1670672224062
 ---

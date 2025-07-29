@@ -1,7 +1,7 @@
 ---
 id: rskz30jqcpb1r0zu9fluga1
 title: 结对编程反模式 / Pair Programming Antipatterns
-desc: ''
+desc: ""
 updated: 1663765151684
 created: 1663763542515
 ---

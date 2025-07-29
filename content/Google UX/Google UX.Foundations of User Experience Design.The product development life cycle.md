@@ -1,7 +1,7 @@
 ---
 id: uymhnoozyq215b8h4qxbbl1
 title: The product development life cycle
-desc: ''
+desc: ""
 updated: 1663661160783
 created: 1663140145069
 nav_order: 2

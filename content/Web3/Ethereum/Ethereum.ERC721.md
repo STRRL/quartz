@@ -1,7 +1,7 @@
 ---
 id: a2ihr3d014v0b2h42vvprja
 title: ERC721
-desc: ''
+desc: ""
 updated: 1669196303803
 created: 1669195553269
 ---

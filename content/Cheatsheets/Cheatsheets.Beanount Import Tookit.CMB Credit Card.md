@@ -1,7 +1,7 @@
 ---
 id: p9g01kht5z682j6xnpv89rg
 title: CMB Credit Card
-desc: ''
+desc: ""
 updated: 1690538069796
 created: 1690537126137
 ---
