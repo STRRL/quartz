@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-08CC9PML1V",
     },
     locale: "en-US",
-    baseUrl: "whatiknown.strrl.dev",
+    baseUrl: "wiki.strrl.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
