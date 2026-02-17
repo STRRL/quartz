@@ -76,6 +76,7 @@ export default (() => {
 
         {cfg.baseUrl && (
           <>
+            <link rel="canonical" href={socialUrl} />
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
