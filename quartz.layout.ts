@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
       provider: "giscus",
       options: {
         // from data-repo
-        repo: "STRRL/quartz",
+        repo: "STRRL/wiki.strrl.dev",
         // from data-repo-id
         repoId: "R_kgDONl8eCQ",
         // from data-category
