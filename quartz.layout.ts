@@ -6,6 +6,11 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.RecentNotes({
+      title: "Recent Thoughts",
+      limit: 20,
+      showTags: true,
+    }),
     Component.Comments({
       provider: "giscus",
       options: {
