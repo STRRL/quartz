@@ -80,3 +80,14 @@ Aggregated highlights from paper reviews. Will be reorganized after all papers a
 
 - AI-powered Drain, top parser alongside LILAC
 - TF-IDF + DBSCAN for clustering, beats embeddings — logs are structurally similar, token-level diff matters more
+
+## From [22-k8sgpt](22-k8sgpt.md)
+
+- k8sgpt log analysis is just regex "error|exception|fail" on last 100 lines — this is the gap LAPP fills
+- Plugin/analyzer architecture worth referencing for LAPP extensibility
+
+## From [23-awesome-llm-aiops](23-awesome-llm-aiops.md)
+
+- Industry trend: RCA becoming agentic (RCAgent, FLASH, LLexus) — agent with tools does diagnosis. LAPP Phase 2 direction
+- Log Anomaly Detection papers in the list are a goldmine for Phase 2, revisit later
+- AIOpsLab (MLSys'25) benchmark could be useful for LAPP evaluation
