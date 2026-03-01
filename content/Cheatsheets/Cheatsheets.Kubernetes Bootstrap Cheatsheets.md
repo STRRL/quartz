@@ -158,6 +158,8 @@ kube-vip manifest pod \
 
 ## Bootstrap the first master Node
 
+about etcd tuning, see [[etcd-breaks-at-scale-kubernetes]]
+
 ```bash
 kubeadm config images pull --cri-socket=/run/containerd/containerd.sock
 kubeadm init --upload-certs --control-plane-endpoint=$VIP --cri-socket=/run/containerd/containerd.sock
