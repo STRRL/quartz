@@ -1,0 +1,68 @@
+content/GTD/references/2026-W10/ai-commoditization-career-impact.md
+  2867f8a79d7d918b 97-129
+content/GTD/references/2026-W10/houseplant-programming.md
+  9e84a81592911503 50-54
+content/GTD/references/2026-W10/slow-death-of-power-user.md
+  e44a2590d28ada6d 54-60
+content/GTD/references/2026-W10/k8s-ai-inference.md
+  423dad14e460a683 37-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "4447b051e06a06bf2649c34402e29a47c8965d0b",
+  "prompts": {
+    "2867f8a79d7d918b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1fbe3747-925f-4d39-867a-b123c332964b",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Zhiqiang ZHOU <im@strrl.dev>",
+      "messages": [],
+      "total_additions": 33,
+      "total_deletions": 0,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    },
+    "423dad14e460a683": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1ad28767-b7b5-43df-8d2d-4ef61e52559f",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Zhiqiang ZHOU <im@strrl.dev>",
+      "messages": [],
+      "total_additions": 23,
+      "total_deletions": 0,
+      "accepted_lines": 23,
+      "overriden_lines": 0
+    },
+    "9e84a81592911503": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f70e28f4-9460-41a0-a51d-1dab44b96f26",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Zhiqiang ZHOU <im@strrl.dev>",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    },
+    "e44a2590d28ada6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "95aad605-1454-4665-9a9f-87e84e8a72a3",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Zhiqiang ZHOU <im@strrl.dev>",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 3,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}
