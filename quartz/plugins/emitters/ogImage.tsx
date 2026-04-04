@@ -2,7 +2,13 @@ import { QuartzEmitterPlugin } from "../types"
 import { i18n } from "../../i18n"
 import { unescapeHTML } from "../../util/escape"
 import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../../util/path"
-import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
+import {
+  ImageOptions,
+  SocialImageOptions,
+  defaultImage,
+  getSatoriFonts,
+  fetchTtf,
+} from "../../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
 import { loadEmoji, getIconCode } from "../../util/emoji"
@@ -56,6 +62,14 @@ async function generateSocialImage(
     loadAdditionalAsset: async (languageCode: string, segment: string) => {
       if (languageCode === "emoji") {
         return await loadEmoji(getIconCode(segment))
+      }
+
+      const cjkCodes = new Set(["zh-CN", "zh-TW", "zh-HK", "ja", "ko"])
+      if (cjkCodes.has(languageCode)) {
+        const fontData = await fetchTtf("Noto Sans SC", 400)
+        if (fontData) {
+          return fontData
+        }
       }
 
       return languageCode
