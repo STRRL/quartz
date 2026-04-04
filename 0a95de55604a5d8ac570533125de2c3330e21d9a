@@ -1,0 +1,23 @@
+quartz/plugins/emitters/ogImage.tsx
+  b7f1a6280fb7c7b2 5-10,67-73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.5",
+  "base_commit_sha": "0a95de55604a5d8ac570533125de2c3330e21d9a",
+  "prompts": {
+    "b7f1a6280fb7c7b2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a3bcc06a-3983-4493-9e18-5cf061f5d436",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Zhiqiang ZHOU",
+      "messages": [],
+      "total_additions": 15,
+      "total_deletions": 1,
+      "accepted_lines": 14,
+      "overriden_lines": 0
+    }
+  }
+}
