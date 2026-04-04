@@ -64,11 +64,19 @@ async function generateSocialImage(
         return await loadEmoji(getIconCode(segment))
       }
 
-      const cjkCodes = new Set(["zh-CN", "zh-TW", "zh-HK", "ja", "ko"])
-      if (cjkCodes.has(languageCode)) {
+      const cjkCodes = ["zh-CN", "zh-TW", "zh-HK", "ja-JP", "ja", "ko-KR", "ko"]
+      const codes = languageCode.split("|")
+      if (codes.some((code) => cjkCodes.includes(code))) {
         const fontData = await fetchTtf("Noto Sans SC", 400)
         if (fontData) {
-          return fontData
+          return [
+            {
+              name: "Noto Sans SC",
+              data: fontData,
+              weight: 400 as const,
+              style: "normal" as const,
+            },
+          ]
         }
       }
 
