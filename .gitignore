@@ -9,3 +9,6 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+quartz/.quartz-cache/
+content/.obsidian/
+content/Daily Notes/

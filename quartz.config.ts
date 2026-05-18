@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "wiki.strrl.dev",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Daily Notes"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
