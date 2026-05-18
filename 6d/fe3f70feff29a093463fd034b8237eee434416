@@ -1,0 +1,21 @@
+quartz.config.ts
+  s_eea3fdd1b4be86::t_17c9d189a36cd0 21
+.gitignore
+  s_eea3fdd1b4be86::t_26176510ba1db0 12-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.9",
+  "base_commit_sha": "6dfe3f70feff29a093463fd034b8237eee434416",
+  "prompts": {},
+  "sessions": {
+    "s_eea3fdd1b4be86": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e3c5d-cda5-7b62-95ee-624cb151d651",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Zhiqiang ZHOU <im@strrl.dev>"
+    }
+  }
+}
